@@ -1,2 +1,3 @@
-# Data_Analsis_Dashboard
-I Developed a comprehensive  project in Excel, creating multiple dashboard and tables to analyze the data. This process involved several stages, including Data Processing, Data Cleaning, and Data Visualization.
+# Kuddi-Sales-Data-Analysis(Interactive Dashboard creation uning Power BI)
+as Project Objective
+The Kuddi Store wants to create an annual sales report. So that, the owner of the Kuddi Store can understand their customers, and grow more sales in next years.
