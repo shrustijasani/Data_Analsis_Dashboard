@@ -54,4 +54,6 @@ The Kuddi Store wants to create an annual sales report. So that, the owner of th
       
 7. Sales Analysis by Days and Hours:
     - Utilize a heat map to visualize sales patterns by days and hours.
-      
+  
+## Power BI Dashboard 
+- <a href="
