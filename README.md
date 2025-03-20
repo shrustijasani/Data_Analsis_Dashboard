@@ -56,4 +56,12 @@ The Kuddi Store wants to create an annual sales report. So that, the owner of th
     - Utilize a heat map to visualize sales patterns by days and hours.
   
 ## Power BI Dashboard 
-- <a href="
+- <a href="https://github.com/shrustijasani/Data_Analsis_Dashboard/blob/main/Kuddi%20Sales%20Power%20BI.pbix">Download Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created tables and Measures according to the questions asked.
+- Merged all tables and Measures into one dashboard and applied slicer and interactive fliters for dynamic dashboard.
+
+## Dashboard 
