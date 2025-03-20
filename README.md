@@ -65,5 +65,6 @@ The Kuddi Store wants to create an annual sales report. So that, the owner of th
 - Merged all tables and Measures into one dashboard and applied slicer and interactive fliters for dynamic dashboard.
 
 ## Dashboard 
+![Screenshot 2025-03-20 142811](https://github.com/user-attachments/assets/ee966bcf-280e-4326-b775-47edcea445bc)
 
 
