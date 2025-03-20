@@ -65,3 +65,4 @@ The Kuddi Store wants to create an annual sales report. So that, the owner of th
 - Merged all tables and Measures into one dashboard and applied slicer and interactive fliters for dynamic dashboard.
 
 ## Dashboard 
+[https://github.com/shrustijasani/Data_Analsis_Dashboard/blob/main/Kuddi%20Sales%20Power%20BI.pdf]
