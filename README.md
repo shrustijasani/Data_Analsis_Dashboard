@@ -67,4 +67,20 @@ The Kuddi Store wants to create an annual sales report. So that, the owner of th
 ## Dashboard 
 ![Screenshot 2025-03-20 142811](https://github.com/user-attachments/assets/ee966bcf-280e-4326-b775-47edcea445bc)
 
+## 🔍 Project Insights
+This Power BI dashboard provides an interactive sales report for KUDI, tracking total sales ($35.281K), orders (25,335), and quantity sold (39,818). 
+It highlights sales trends, top-performing products, store locations, and peak sales hours to support data-driven decision-making.
 
+## 🚀 Key Insights
+- Sales Trends: Sales dropped 2.00%, but orders and quantity sold increased by 19.3% and 19.9%, respectively.
+- Best-Selling Products: Necklaces ($1,074.43K), Rings, and Earrings drive the highest revenue.
+- Top Store Locations: Mota Warachal ($1,334.62K), Katargam, and Nana Varachha lead in sales.
+- Peak Sales Time: Highest sales occur on weekends and between 5 PM – 8 PM.
+
+## 📈 Business Impact
+- Helps optimize inventory & marketing for high-demand products.
+- Supports strategic planning for store and time-based sales improvements.
+- Identifies growth opportunities by analyzing underperforming areas.
+
+## ✅ Final Conclusion
+The Power BI dashboard reveals key sales trends, highlighting growth opportunities in orders and quantity sold despite a slight revenue decline. Necklaces, Rings, and Earrings drive the highest sales, while weekends and evening hours are peak selling times. Mota Warachal leads store performance. These insights help in optimizing inventory, marketing strategies, and operational planning to boost overall revenue. 🚀
