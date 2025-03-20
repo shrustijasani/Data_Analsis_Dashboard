@@ -66,3 +66,4 @@ The Kuddi Store wants to create an annual sales report. So that, the owner of th
 
 ## Dashboard 
 [https://github.com/shrustijasani/Data_Analsis_Dashboard/blob/main/Kuddi%20Sales%20Power%20BI.pdf]
+file:///C:/Users/HP/OneDrive/Desktop/Kuddi%20Sales/Kuddi%20Sales%20Power%20BI.pdf
