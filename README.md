@@ -1,6 +1,5 @@
 # Kuddi-Sales-Data-Analysis(Interactive Dashboard creation using Power BI)
-As Project Objective
-The Kuddi Store wants to create an annual sales report. So that, the owner of the Kuddi Store can understand their customers, and grow more sales in next years.
+Developed an interactive Power BI sales dashboard to track key business metrics, including total sales, orders, and quantity sold. The dashboard provides insights into sales trends, product performance, store-wise sales, and hourly sales distribution, enabling data-driven decision-making for business growth.
 
 ## Dataset Used
 - <a href="https://github.com/shrustijasani/Data_Analsis_Dashboard/blob/main/Kuddi%20Sales.xlsx">Dataset</a>
